@@ -6,16 +6,12 @@ This guide is for **external developers** who want to build a **Me Module** for 
 - A Me Module communicates with the ShareRing Me app **only** via a **message bridge** (`postMessage`).
 - This document covers the **V2 Me Module API**.
 
----
-
 ## What you build (high-level)
 
 - A static web app (React/Vue/Svelte/Vanilla JS—your choice)
 - Hosted at a public URL (typically `https://...`)
 - With a required `manifest.json` at the **domain root**
 - Optionally packaged for **offline caching** using a zip bundle
-
----
 
 ## Quickstart (recommended scaffolding)
 
