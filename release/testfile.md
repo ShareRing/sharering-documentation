@@ -1,5 +1,3 @@
-Test file only, please ignore.
-
 # ShareRing Me Modules Developer Guide (V2)
 
 This guide is for **external developers** who want to build a **Me Module** for the ShareRing Me app.
