@@ -1,3 +1,10 @@
+---
+title: Me Module Overview
+menu_order: 1
+taxonomy:
+    doc_category: technical-docs
+---
+
 # ShareRing Me Modules Developer Guide (V2)
 
 This guide is for **external developers** who want to build a **Me Module** for the ShareRing Me app.
